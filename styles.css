@@ -1,0 +1,35 @@
+p{
+    font-family: Bungee;
+}
+body{
+    font-size: 20px;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.0em;
+}
+
+span{
+    font-size: 2.0em;
+}
+
+p{
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+h1{
+    text-align: right;
+}
+
+p{
+    text-align: center;
+
+}
+
+p{
+    text-decoration: underline;
+}
+h1{
+    text-decoration: line-through;
+}

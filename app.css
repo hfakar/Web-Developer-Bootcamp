@@ -1,0 +1,17 @@
+h1{
+    color:rgba(0,200,100,1);
+    border-color: purple;
+    border-width: 2px;
+    border-style: solid;
+}
+
+li {
+    color :green;
+}
+
+h4 {
+    color:purple
+}
+body{
+    background:  url("https://st.depositphotos.com/1053653/2252/i/450/depositphotos_22520259-stock-photo-realistic-3d-presentation-empty-room.jpg")
+}

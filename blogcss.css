@@ -1,0 +1,29 @@
+body{
+    width: 80%;
+    border: 20px solid;
+    border-color: grey;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+h1{
+    margin: 20px;
+}
+
+p{
+    margin: 20px;
+}
+h4{
+    letter-spacing: 2px;
+    margin: 20px;
+    text-transform: uppercase;
+    color: rgb(52, 140, 199)
+}
+
+h1 + p{
+    border-left: 4px solid grey;
+}
+div:nth-of-type(1){
+    border-bottom: 2px solid gray;
+    margin: 20px;
+}
